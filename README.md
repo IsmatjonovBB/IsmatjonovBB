@@ -36,8 +36,8 @@
 
 ## 📫 Как связаться?
 
-- GitHub: [Твой профиль](https://github.com/ТвойUsername)  
-- Telegram: [@ТвойТелеграм](https://t.me/ТвойТелеграм)  
-- Email: **ТвойEmail@example.com**  
+- GitHub: [IsmatjonovBB](https://github.com/IsmatjonovBB)  
+- Telegram: [@ismatjonov](https://t.me/ismatjonov)  
+- Email: **ismatjonovB@outlook.com.com**  
 
 💡 **Всегда рад новым идеям и сотрудничеству!**
