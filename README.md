@@ -37,7 +37,7 @@
 ## 📫 Как связаться?
 
 - GitHub: [IsmatjonovBB](https://github.com/IsmatjonovBB)  
-- Telegram: [@ismatjonov](https://t.me/ismatjonov)  
-- Email: **ismatjonovB@outlook.com.com**  
+- Telegram: [@ismatjonov](https://t.me/roslyner)  
+- Email: **[bakhtovar685@gmail.com](https://mailto:bakhtovar685@gmail.com?Subject="From_GitHub")**  
 
 💡 **Всегда рад новым идеям и сотрудничеству!**
