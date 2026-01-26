@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋, я Бахтовар</h1>
+⁷<h1 align="center">Привет 👋, я Бахтовар</h1>
 <h3 align="center">💻 Web & Backend Developer | Creator of YAMIX</h3>
 
 ---
@@ -24,11 +24,11 @@
 ## 📊 GitHub статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsmatjonovBB&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmatjonovBB&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 ## 🏆 GitHub трофеи
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IsmatjonovBB&theme=tokyonight&row=1" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ## ⚡ Активность
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsmatjonovBB&theme=tokyo-night" />
 </p>
 
 ---
