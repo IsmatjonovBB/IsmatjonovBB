@@ -1,5 +1,5 @@
-⁷<h1 align="center">Привет 👋, я Бахтовар</h1>
-<h3 align="center">💻 Web & Backend Developer | Creator of YAMIX</h3>
+<h1 align="center">Привет 👋, я Бахтовар</h1>
+<h3 align="center">💻 Web & Backend Developer</h3>
 
 ---
 
